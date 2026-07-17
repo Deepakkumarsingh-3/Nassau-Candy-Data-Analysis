@@ -25,9 +25,12 @@ This  project processes raw distribution data from Nassau Candy to identify sale
 1. Clone this respiratory to your local machine.
 2. Ensure you have the required dependencies installed:
         ''' bash
-        pip install pandas matplotlib
-        python clean_data.py
-        python process_data.py
+        pip install pandas matplotlib,
+   
+        python clean_data.py,
+   
+        python process_data.py,
+   
 
 
 
